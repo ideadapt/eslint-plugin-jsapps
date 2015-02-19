@@ -28,28 +28,28 @@ eslintTester.addRuleTest("lib/rules/expect-length", {
         {
             code: "items.forEach(console.log);",
             errors: [{
-                message: "length check required before",
+                message: "length check for items required before calling forEach on it.",
                 type: "Identifier"
             }]
         },
         {
             code: "expect(items).toBeDefined(); items.forEach(console.log);",
             errors: [{
-                message: "length check required before",
+                message: "length check for items required before calling forEach on it.",
                 type: "Identifier"
             }]
         },
         {
             code: "expect(items.l).toBeDefined(); items.forEach(console.log);",
             errors: [{
-                message: "length check required before",
+                message: "length check for items required before calling forEach on it.",
                 type: "Identifier"
             }]
         }
         // {
         //     code: "items.forEach(console.log); expect(items.length).not.toBe(0);",
         //     errors: [{
-        //         message: "length check required before",
+        //         message: "length check for items required before calling forEach on it.",
         //         type: "Identifier"
         //     }]
         // }
