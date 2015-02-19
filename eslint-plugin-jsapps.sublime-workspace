@@ -1,0 +1,1723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"fake",
+				"fakeWindow	{}"
+			],
+			[
+				"do",
+				"doPush	(bool)"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"nu",
+				"numeralFake	{}"
+			],
+			[
+				"live",
+				"livereload"
+			],
+			[
+				"toLo",
+				"toLowerCase()"
+			],
+			[
+				"sele",
+				"selectedYear	(?)"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ce",
+				"centerY	(num)"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"la",
+				"languages	(?)"
+			],
+			[
+				"un",
+				"unusedKeys()"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"filterTop",
+				"filterTopOverClip"
+			],
+			[
+				"grad",
+				"gradient-border"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sh",
+				"shadowBoxBg"
+			],
+			[
+				"straf",
+				"straftatenTable"
+			],
+			[
+				"fil",
+				"filterRowHeight	(?)"
+			],
+			[
+				"res",
+				"resolved"
+			],
+			[
+				"no",
+				"notInChart"
+			],
+			[
+				"num",
+				"numeralDecorator(toFormat)"
+			],
+			[
+				"titl",
+				"title_txt_maintitle"
+			],
+			[
+				"sli",
+				"sliceIdx	(?)"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"mob",
+				"mobileSections"
+			],
+			[
+				"desc",
+				"descrI18nKey	(str)"
+			],
+			[
+				"all",
+				"allStraftatenTotal	(?)"
+			],
+			[
+				"tot",
+				"totalStraftaten(year, canton)"
+			],
+			[
+				"ti",
+				"titleText"
+			],
+			[
+				"course",
+				"course-legend"
+			],
+			[
+				"con",
+				"contentDocument	(?)"
+			],
+			[
+				"svg",
+				"svgContainer	(?)"
+			],
+			[
+				"tex",
+				"textTotal	(?)"
+			],
+			[
+				"te",
+				"textTotal	(?)"
+			],
+			[
+				"pro",
+				"prototype	{}"
+			],
+			[
+				"Fie",
+				"FieldValueExport"
+			],
+			[
+				"sec",
+				"sections	[]"
+			],
+			[
+				"deli",
+				"deliktTable"
+			],
+			[
+				"p",
+				"percent	(?)"
+			],
+			[
+				"inne",
+				"innerRadiusFactor	(num)"
+			],
+			[
+				"inn",
+				"innerRadiusEff	(num)"
+			],
+			[
+				"out",
+				"outerRadiusEff"
+			],
+			[
+				"ra",
+				"innerRadiusExtra"
+			],
+			[
+				"av",
+				"availableHeight	(num)"
+			],
+			[
+				"ava",
+				"availableWidth	(num)"
+			],
+			[
+				"in",
+				"innerRadius	(num)"
+			],
+			[
+				"lo",
+				"localeMatch	(?)"
+			],
+			[
+				"fallb",
+				"fallbackLang"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"keys",
+				"keysWoTelefonbuch	[]"
+			],
+			[
+				"tool",
+				"tooltip	{}"
+			],
+			[
+				"nv-",
+				"nv-legendWrap"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"sel",
+				"selectionChanged(year, canton)"
+			],
+			[
+				"select",
+				"selectionChanged"
+			],
+			[
+				"arc",
+				"arcRadius"
+			],
+			[
+				"ar",
+				"arcOver"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"del",
+				"deliktTable"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ini",
+				"initTooltip()"
+			],
+			[
+				"lege",
+				"legendTemplate	(?)"
+			],
+			[
+				"key",
+				"keyValues"
+			],
+			[
+				"tran",
+				"translations	{}"
+			],
+			[
+				"tra",
+				"translations	{}"
+			],
+			[
+				"pa",
+				"parsedCsv	(?)"
+			],
+			[
+				"se",
+				"sections	[]"
+			],
+			[
+				"record",
+				"recordIdx	(num)"
+			],
+			[
+				"ou",
+				"outputStream	(?)"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"data",
+				"dataDivisions	{}"
+			],
+			[
+				"he",
+				"hebel"
+			],
+			[
+				"rad",
+				"radiusMin"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"center",
+				"centerX"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fo",
+				"forEach(f, context?)"
+			],
+			[
+				"Section",
+				"sectionValues"
+			],
+			[
+				"section",
+				"sectionValues"
+			],
+			[
+				"new",
+				"newValues	(?)"
+			],
+			[
+				"ne",
+				"newValues	(?)"
+			],
+			[
+				"th",
+				"thousendsFormat	(str)"
+			],
+			[
+				"Te",
+				"TechAdm	(?)"
+			],
+			[
+				"terror",
+				"terrorProzent"
+			],
+			[
+				"tech",
+				"techadm"
+			],
+			[
+				"by",
+				"bySuperSub(_super, sub)"
+			],
+			[
+				"va",
+				"valueOf()"
+			],
+			[
+				"val",
+				"valuesActiv	(?)"
+			],
+			[
+				"ca",
+				"canton	(?)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"b",
+				"btn-group"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"vor",
+				"vorratsdaten"
+			],
+			[
+				"ac",
+				"activPromise	(?)"
+			],
+			[
+				"u",
+				"unique(e, i, arr)"
+			],
+			[
+				"re",
+				"renderYear()"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"year",
+				"yearObserver	(?)"
+			],
+			[
+				"nv",
+				"nvd3"
+			],
+			[
+				"bro",
+				"browserify"
+			],
+			[
+				"ye",
+				"year-legend"
+			],
+			[
+				"ma",
+				"mapSelectionChanged	(?)"
+			],
+			[
+				"cal",
+				"calculatedApproximateAmount	(str)"
+			],
+			[
+				"not",
+				"notifyArgs	[]"
+			],
+			[
+				"currentIte",
+				"currentItemNewValue"
+			],
+			[
+				"swipe-slider",
+				"swipe-slider-item"
+			],
+			[
+				"get",
+				"getBookingsContainer(index)"
+			],
+			[
+				"o",
+				"operation	(?)"
+			],
+			[
+				"end",
+				"endpoint	(?)"
+			],
+			[
+				"gen",
+				"generateActorTest"
+			],
+			[
+				"aut",
+				"authorKey	(?)"
+			],
+			[
+				"Update",
+				"UpdateActor"
+			],
+			[
+				"show",
+				"showDashboard"
+			],
+			[
+				"def",
+				"defI	(?)"
+			],
+			[
+				"scr",
+				"scriptExec	(?)"
+			],
+			[
+				"wa",
+				"waitGap	(num)"
+			],
+			[
+				"Valida",
+				"ValidationState"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"follow_symlinks\": false,\n			\"path\": \".\"\n		}\n	],\n	 \"SublimeLinter\":{\n        \"linters\":{\n            \"jshint\": {\n                \"@disable\": true\n            },\n            \"eslint\":{\n            	\"@disable\": false\n            }\n        }\n    }\n}\n",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "eslint-plugin-nextgen.sublime-project",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"tern",
+				"TernJS: Rename variable"
+			],
+			[
+				"jshi",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"jh",
+				"JSHint"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jsl",
+				"JSLint"
+			],
+			[
+				"fixmy",
+				"FixMyJS"
+			],
+			[
+				"fixm",
+				"FixMyJS"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacaka",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ju",
+				"TernJS: Jump to definition"
+			],
+			[
+				"rel",
+				"TernJS: Reload"
+			],
+			[
+				"jm",
+				"TernJS: Jump to definition"
+			],
+			[
+				"relo",
+				"TernJS: Reload"
+			],
+			[
+				"jum",
+				"TernJS: Jump to definition"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 581.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ideadapt/repos/eslint-plugin-jsapps"
+	],
+	"file_history":
+	[
+		"/Users/ideadapt/repos/slir/src/app/scripts/course/legend.jade",
+		"/Users/ideadapt/repos/slir/src/sliv/index.html",
+		"/Users/ideadapt/repos/slir/src/sliv/.htaccess",
+		"/Users/ideadapt/repos/slir/src/sliv/scripts/main.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/translations.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/map/map.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/filter/filter.js",
+		"/Users/ideadapt/repos/slir/src/node_modules/bower/node_modules/mout/object/forIn.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/params/params.6.js",
+		"/Users/ideadapt/repos/slir/src/package.json",
+		"/Users/ideadapt/repos/slir/src/app/images/favicons/manifest.json",
+		"/Users/ideadapt/repos/slir/src/app/images/favicons/browserconfig.xml",
+		"/Users/ideadapt/repos/slir/src/app/index.html",
+		"/Users/ideadapt/repos/slir/src/Gruntfile.js",
+		"/Users/ideadapt/repos/slir/src/app/.htaccess",
+		"/Users/ideadapt/repos/slir/src/app/.htaccess_org",
+		"/Users/ideadapt/repos/slir/src/node_modules/apache-server-configs/dist/.htaccess",
+		"/Users/ideadapt/repos/slir/src/.bowerrc",
+		"/Users/ideadapt/repos/slir/src/.gitignore",
+		"/Users/ideadapt/repos/slir/src/test/spec/test.js",
+		"/Users/ideadapt/repos/slir/src/test/test/test.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/main.js",
+		"/Users/ideadapt/repos/slir/src/.sass-cache/00c6a17b8022d95f19a126e6134809301b346bd5/map.scssc",
+		"/Users/ideadapt/repos/slir/src/bower_components/highcharts/adapters/mootools-adapter.js",
+		"/Users/ideadapt/repos/slir/src/bower_components/bowser/Makefile",
+		"/Users/ideadapt/repos/urshiatsu/dev/src/files/app/js/main.js",
+		"/Users/ideadapt/repos/slir/src/test/index.html",
+		"/Users/ideadapt/repos/slir/src/app/styles/main.scss",
+		"/Users/ideadapt/repos/slir/src/app/styles/_straftaten.scss",
+		"/Users/ideadapt/repos/slir/src/app/styles/_delikt.scss",
+		"/Users/ideadapt/repos/slir/src/app/scripts/straftaten/straftaten.6.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/delikt/deliktTable.jade",
+		"/Users/ideadapt/repos/slir/src/app/scripts/straftaten/straftatenTable.jade",
+		"/Users/ideadapt/repos/slir/src/app/scripts/course/course.6.js",
+		"/Users/ideadapt/repos/slir/src/bower.json",
+		"/Users/ideadapt/repos/slir/src/app/styles/_index.scss",
+		"/Users/ideadapt/repos/slir/src/app/scripts/technologie/technologie.6.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/index/index.js",
+		"/Users/ideadapt/repos/slir/src/.sass-cache/00c6a17b8022d95f19a126e6134809301b346bd5/_delikt.scssc",
+		"/Users/ideadapt/repos/slir/src/.sass-cache/00c6a17b8022d95f19a126e6134809301b346bd5/_course.scssc",
+		"/Users/ideadapt/repos/slir/src/app/scripts/delikt/delikt.6.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/technologie/technologie.jade",
+		"/Users/ideadapt/repos/slir/src/dist/.htaccess",
+		"/Users/ideadapt/repos/slir/src/dist/index.html",
+		"/Users/ideadapt/repos/slir/src/app/iframe-demo.html",
+		"/Users/ideadapt/repos/slir/src/.tmp/scripts/data/i18n.6.js",
+		"/Users/ideadapt/repos/slir/src/test/lib/sinon.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/data/i18n.6.js",
+		"/Users/ideadapt/repos/slir/src/node_modules/grunt-contrib-uglify/node_modules/uglify-js/test/compress/issue-105.js",
+		"/Users/ideadapt/Desktop/smurfcites.txt",
+		"/Users/ideadapt/repos/slir/src/i18n/csv2src.js",
+		"/Users/ideadapt/repos/slir/src/README",
+		"/Users/ideadapt/repos/slir/src/dist/scripts/main.js",
+		"/Users/ideadapt/repos/slir/src/bower_components/papaparse/parse.jquery.json",
+		"/Users/ideadapt/repos/slir/src/app/scripts/index/langMenu.jade",
+		"/Users/ideadapt/repos/slir/src/app/styles/_filter.scss",
+		"/Users/ideadapt/repos/slir/src/app/scripts/data/dataSummary.6.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/data/dataDivisions.6.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/filter/filterCantons.jade",
+		"/Users/ideadapt/repos/slir/src/.tmp/scripts/main.js",
+		"/Users/ideadapt/repos/urshiatsu/dev/src/.htaccess",
+		"/Users/ideadapt/repos/slir/src/app/styles/_technologie.scss",
+		"/Users/ideadapt/repos/slir/src/app/data/slirv_translations.csv",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/less/mixins/table-row.less",
+		"/Users/ideadapt/repos/slir/src/i18n/translations.js",
+		"/Users/ideadapt/repos/slir/src/_specs/review1.txt",
+		"/Users/ideadapt/repos/slir/src/node_modules/bower/node_modules/glob/test/root-nomount.js",
+		"/Users/ideadapt/repos/slir/src/_specs/slirv_translations.xlsx",
+		"/Users/ideadapt/repos/slir/src/server.js",
+		"/Users/ideadapt/repos/slir/src/bower_components/nvd3-community/build/nv.d3.js",
+		"/Users/ideadapt/repos/slir/src/app/fonts/glyphicons-halflings-regular.eot",
+		"/Users/ideadapt/repos/slir/src/node_modules/6to5ify/node_modules/6to5-core/CODE_OF_CONDUCT.md",
+		"/Users/ideadapt/repos/slir/src/node_modules/csv-parse/test/counter.coffee",
+		"/Users/ideadapt/repos/slir/src/app/data/data.csv",
+		"/Users/ideadapt/repos/slir/src/app/styles/_course.scss",
+		"/Users/ideadapt/repos/slir/src/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/input-number.json",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/docs/_includes/getting-started/translations.html",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/docs/_data/translations.yml",
+		"/Users/ideadapt/repos/slir/src/node_modules/browserify/test/tr_args.js",
+		"/Users/ideadapt/repos/slir/src/bower_components/emitter/emitter.js",
+		"/Users/ideadapt/repos/slir/src/node_modules/grunt-contrib-less/node_modules/less/test/css/extend-media.css",
+		"/Users/ideadapt/repos/slir/src/app/styles/_map.scss",
+		"/Users/ideadapt/repos/slir/src/.buildpacks",
+		"/Users/ideadapt/repos/slir/src/Gemfile",
+		"/Users/ideadapt/repos/slir/src/Gemfile.lock",
+		"/Users/ideadapt/repos/slir/src/node_modules/grunt/node_modules/underscore.string/Gemfile",
+		"/Users/ideadapt/repos/slir/src/node_modules/grunt/node_modules/grunt-legacy-util/test/fixtures/Gruntfile-execArgv.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/typ/typ.jade",
+		"/Users/ideadapt/repos/slir/src/app/scripts/typ/typ.js",
+		"/Users/ideadapt/repos/IBNextGen/IBNextGen/test/fakedata/order-getpaymenttimegroups/order-getpaymenttimegroups_1147052965.json",
+		"/Users/ideadapt/repos/slir/src/bower_components/nvd3/nv.d3.min.js",
+		"/Users/ideadapt/repos/slir/src/bower_components/nvd3/nv.d3.js",
+		"/Users/ideadapt/repos/slir/src/.sass-cache/f29ec9fc98adce94a1c3e6a6b7fc46034c02779d/nv.d3.cssc",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/less/mixins/nav-vertical-align.less",
+		"/Users/ideadapt/repos/slir/src/npm-debug.log",
+		"/Users/ideadapt/repos/slir/src/app/scripts/lib/debounce.js",
+		"/Users/ideadapt/repos/slir/src/dist/styles/main.css",
+		"/Users/ideadapt/repos/slir/src/.tmp/styles/main.css",
+		"/Users/ideadapt/repos/slir/src/app/styles/bootstrap/variables.less",
+		"/Users/ideadapt/repos/slir/src/node_modules/grunt-wiredep/node_modules/wiredep/node_modules/bower-config/node_modules/mout/object/forIn.js",
+		"/Users/ideadapt/repos/slir/src/app/data/slirv_data_annualsummary.csv",
+		"/Users/ideadapt/repos/slir/src/bower_components/nvd3/GruntFile.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/art/art.jade",
+		"/Users/ideadapt/repos/slir/src/app/scripts/straftaten/straftaten.jade",
+		"/Users/ideadapt/repos/slir/src/app/scripts/course/course.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/course/tooltip.jade",
+		"/Users/ideadapt/repos/slir/src/app/scripts/art/art.js",
+		"/Users/ideadapt/repos/31c3-bestof/sources.txt",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/less/responsive-embed.less",
+		"/Users/ideadapt/repos/slir/src/bower_components/moment/locale/de-at.js",
+		"/Users/ideadapt/repos/slir/src/node_modules/browserify/test/global_recorder.js",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/docs/dist/css/bootstrap.min.css",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/docs/dist/css/bootstrap.css",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/dist/js/bootstrap.min.js",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/dist/css/bootstrap.min.css",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/dist/css/bootstrap.css.map",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/dist/css/bootstrap-theme.css",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/dist/js/bootstrap.js",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/less/bootstrap.less",
+		"/Users/ideadapt/repos/slir/src/app/styles/bootstrap.less",
+		"/Users/ideadapt/repos/slir/src/.tmp/styles/bootstrap.css",
+		"/Users/ideadapt/repos/slir/src/app/scripts/delikt/delikt.jade",
+		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/js/tab.js",
+		"/Users/ideadapt/repos/slir/src/app/scripts/data/dataSummary.js",
+		"/Users/ideadapt/repos/slir/spec/review1.txt",
+		"/Users/ideadapt/repos/l10ns/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/npmconf/lib/get-credentials-by-uri.js",
+		"/Users/ideadapt/repos/l10ns/node_modules/lunr/CHANGELOG.mdown"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ideadapt/repos/slir/src/app/scripts,/Users/ideadapt/repos/slir/src/app/styles,/Users/ideadapt/repos/slir/src/Gruntfile.js",
+			"/Users/ideadapt/repos/slir/src/app/scripts,/Users/ideadapt/repos/slir/src/app/styles",
+			"/Users/ideadapt/repos/slir/src/bower_components/nvd3-community",
+			"/Users/ideadapt/repos/slir/src/app/scripts,/Users/ideadapt/repos/slir/src/app/styles",
+			"/Users/ideadapt/repos/slir/src/app/scripts",
+			"ui/src/**/*.js, ui/src/**/*.scss",
+			"ui/**/*.js",
+			"*.js",
+			"./**/*.js",
+			"./ui/**/*.js",
+			"<open folders> *.js",
+			"<open folders>",
+			"/Users/ideadapt/mounts/devel/online/ooselo",
+			"",
+			".AppendLine"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dallas",
+			"/images",
+			"dist",
+			"/images",
+			"authtype",
+			"https",
+			"bmp|crx|css|cur",
+			"# ",
+			">\n",
+			"http:",
+			"document",
+			"Emitter",
+			"emitter",
+			"Emitter",
+			"Params(fakeLocation",
+			"fakeLocation)",
+			".window",
+			"pushst",
+			"history",
+			"rgba(255, 255, 255, 0.8)",
+			"donutLegend",
+			"straftatenDescr",
+			"255",
+			"screen",
+			"#welcome",
+			":hover",
+			"deliktDescr",
+			"glyphi",
+			"numeral",
+			"Numeral",
+			"numeral",
+			"Numeral",
+			"numeralFake",
+			"i18n",
+			"numeralFake",
+			"bower_components",
+			"jshin",
+			"clean:",
+			"livereload",
+			"6to5",
+			"i18n",
+			"connect",
+			"test",
+			"mocha",
+			"connect",
+			"test",
+			"i18nBuild",
+			"replace('/', '')",
+			"dist",
+			"dist\\/",
+			"* ",
+			"console.log",
+			"z-index",
+			"inframe",
+			"iniframe",
+			"fl",
+			"$",
+			"descr",
+			"year",
+			"Year",
+			"console.log",
+			"# ",
+			"CH",
+			"'ch'",
+			"BA",
+			"CH",
+			"ch'",
+			"ch",
+			"bro",
+			"var [",
+			"https",
+			"rewrite",
+			"copy:",
+			".htaccess",
+			"serve",
+			"index",
+			"updateLabel",
+			"digitale gesellschaft",
+			"art_txt_",
+			"art_descr_",
+			"</a></li>",
+			"foo",
+			"<li>",
+			"<hr",
+			"footerRow",
+			"#card",
+			"card",
+			"offse",
+			"bottom",
+			"margin-bott",
+			"margin-to",
+			"idx",
+			"growonhover",
+			"on('",
+			"on(",
+			"mouseenter",
+			"translate",
+			"foo",
+			"offsetWidth",
+			"bootstra",
+			".max",
+			"2014",
+			"startcont",
+			"startContent",
+			"rgba(255, 255, 255, 0.95)",
+			"h1",
+			"background-co",
+			"padding-t",
+			"border-r",
+			".filtered",
+			"background-co",
+			"backgr",
+			"filtered",
+			".filtered",
+			"txt_txt_kesc",
+			"txt_txt_keschwestrata",
+			"border-ri",
+			"schwerestraftaten_descr_descr",
+			"selectionChanged",
+			"toFixed(",
+			"toFixed",
+			"#filter-row, .goToTop{\n		width: 970px;\n	}",
+			"require(",
+			"test",
+			"col-",
+			"console.log",
+			"_total_",
+			"bowser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"i18n",
+			"",
+			"#",
+			"<%= model.camelName %>",
+			"<%= actor.camelName %>",
+			"<%= actor.snakeName %>",
+			"SCSS",
+			"scss",
+			"xpos",
+			"",
+			", :'$1'",
+			", :$1",
+			", :",
+			"\"",
+			"\",\"",
+			" ",
+			"],",
+			"",
+			"$1, ",
+			"]",
+			"[",
+			"",
+			"$db",
+			"\\r\\n",
+			"required=\"required\"",
+			"",
+			">http://www",
+			"Partner",
+			"CKEditor",
+			"SUB_CAT_PREFIX",
+			"* ",
+			"*",
+			"* ",
+			"ObjectList",
+			"None",
+			"Regex.Replace(s, ",
+			", RegexOptions.IgnoreCase);",
+			"Regex.Replace",
+			"Language",
+			".AppendLine",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "eslint-plugin-nextgen.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 202.0
+	},
+	"project": "eslint-plugin-jsapps.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"filter",
+				"app/scripts/filter/filter.js"
+			],
+			[
+				"para",
+				"app/scripts/params/params.6.js"
+			],
+			[
+				".ht",
+				"app/.htaccess"
+			],
+			[
+				".hta",
+				"app/.htaccess"
+			],
+			[
+				"param",
+				"app/scripts/params/params.6.js"
+			],
+			[
+				"map.js",
+				"app/scripts/map/map.js"
+			],
+			[
+				"_del",
+				"app/styles/_delikt.scss"
+			],
+			[
+				"i18n.",
+				"app/scripts/data/i18n.6.js"
+			],
+			[
+				"params",
+				"app/scripts/params/params.6.js"
+			],
+			[
+				"tran",
+				"app/data/slirv_translations.csv"
+			],
+			[
+				"trans",
+				"app/data/slirv_translations.csv"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"translations",
+				"app/data/slirv_translations.csv"
+			],
+			[
+				"i18n",
+				"app/scripts/data/i18n.6.js"
+			],
+			[
+				"straft",
+				"app/scripts/straftaten/straftaten.6.js"
+			],
+			[
+				"straf",
+				"app/scripts/straftaten/straftaten.6.js"
+			],
+			[
+				"filte",
+				"app/scripts/filter/filter.js"
+			],
+			[
+				"bower.",
+				"bower.json"
+			],
+			[
+				"cour",
+				"app/scripts/course/course.6.js"
+			],
+			[
+				"filter.",
+				"app/scripts/filter/filter.js"
+			],
+			[
+				"index.html",
+				"app/index.html"
+			],
+			[
+				"translations.",
+				"app/data/slirv_translations.csv"
+			],
+			[
+				"nv.d3.js",
+				"bower_components/nvd3-community/build/nv.d3.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"bower.j",
+				"bower.json"
+			],
+			[
+				"gruntf",
+				"bower_components/nvd3/GruntFile.js"
+			],
+			[
+				"gruntfi",
+				"bower_components/nvd3/GruntFile.js"
+			],
+			[
+				".htacce",
+				"node_modules/apache-server-configs/dist/.htaccess"
+			],
+			[
+				"rev",
+				"_specs/review1.txt"
+			],
+			[
+				"datadiv",
+				"app/scripts/data/dataDivisions.6.js"
+			],
+			[
+				"bootstrap",
+				"node_modules/bootstrap/docs/dist/css/bootstrap.min.css"
+			],
+			[
+				"finnewdrawer",
+				"src/common/directive/uicontrols/finNewDrawer.js"
+			],
+			[
+				"approx",
+				"src/e2eComponentTests/test/e2e/stockexchange/createStockExchangeOrder/approximateAmount.js"
+			],
+			[
+				"cupro",
+				"grunt/current_user/config/protractor.js"
+			],
+			[
+				"locale",
+				"build/public/i18n/locale-en.json"
+			],
+			[
+				"loca",
+				"static/i18n/locale-de-CH.json"
+			],
+			[
+				"ebilld",
+				"src/ebill/test/e2e/eBillsDetail.js"
+			],
+			[
+				"assettren",
+				"src/account/test/e2e/assetTrendsChart.js"
+			],
+			[
+				"ebill",
+				"src/ebill/partials/eBills.html"
+			],
+			[
+				"servicefac",
+				"src/common/service/resourceFactory.js"
+			],
+			[
+				"ebillss",
+				"src/ebill/service/eBillsService.js"
+			],
+			[
+				"ebillscon",
+				"src/ebill/controller/eBillsController.js"
+			],
+			[
+				"resource",
+				"src/common/service/resourceFactory.js"
+			],
+			[
+				"fron",
+				"grunt/current_user/config/frontendserver.js"
+			],
+			[
+				"cardscon",
+				"src/card/controller/cardsController.js"
+			],
+			[
+				"pacak",
+				"package.json"
+			],
+			[
+				"front",
+				"grunt/current_user/config/frontendserver.js"
+			],
+			[
+				"mix",
+				"scss/application/_mixins.scss"
+			],
+			[
+				"finswi",
+				"src/common/scss/_finSwipeable.scss"
+			],
+			[
+				"fincli",
+				"src/common/directive/finClickBody.js"
+			],
+			[
+				"app.js",
+				"src/app.js"
+			],
+			[
+				"app",
+				"src/app.js"
+			],
+			[
+				"cardsser",
+				"src/card/service/cardsService.js"
+			],
+			[
+				"registere",
+				"src/order/payments/controller/registeredPaymentsController.js"
+			],
+			[
+				"registe",
+				"src/order/payments/controller/registeredPaymentsController.js"
+			],
+			[
+				"registered",
+				"src/order/payments/partials/transferTo/registeredPayments.html"
+			],
+			[
+				"pendingpayments",
+				"src/order/payments/partials/pendingPayments.html"
+			],
+			[
+				"dateforma",
+				"src/common/service/dateFormatterService.js"
+			],
+			[
+				"findate",
+				"src/common/directive/finDate.js"
+			],
+			[
+				"aggregator",
+				"src/common/service/aggregator.js"
+			],
+			[
+				"pendingpaymentsc",
+				"src/order/payments/controller/pendingPaymentsController.js"
+			],
+			[
+				"registeredpaym",
+				"src/order/payments/controller/registeredPaymentsController.js"
+			],
+			[
+				"registeredpay",
+				"src/order/payments/partials/transferTo/registeredPayments.html"
+			],
+			[
+				"pending",
+				"src/dashboard/partials/preview/pendingPayments.html"
+			],
+			[
+				"specdim",
+				"scss/spec/_dimensions.scss"
+			],
+			[
+				"finmodal",
+				"src/common/directive/uicontrols/finModal.js"
+			],
+			[
+				"local",
+				"static/i18n/locale-de-CH.json"
+			],
+			[
+				"e2ecomphelpers",
+				"src/e2eComponentTests/test/e2e/stockexchange/createStockExchangeOrder/helpers.js"
+			],
+			[
+				"e2e",
+				"src/e2eComponentTests/test/e2e/common/finSubmit.js"
+			],
+			[
+				"e2elatestbookings",
+				"src/account/test/e2e/latestBookings.js"
+			],
+			[
+				"e2eribbon",
+				"src/order/payments/test/e2e/internationalPayment/beneficiaryBank/countryDropdown.js"
+			],
+			[
+				"ribbon.js",
+				"src/header/test/e2e/ribbonNavigation.js"
+			],
+			[
+				"accountinforn",
+				"src/account/test/e2e/accountInformation.js"
+			],
+			[
+				"cards.js",
+				"src/dashboard/test/e2e/cards.js"
+			],
+			[
+				"messagebus",
+				"src/common/service/messageBus.js"
+			],
+			[
+				"latestbookingsc",
+				"ui/src/account/controller/latestBookingsController.js"
+			],
+			[
+				"kue.",
+				"conf/application/user/kue.conf"
+			],
+			[
+				"kue.c",
+				"conf/application/user/kue.conf"
+			],
+			[
+				"accountinform",
+				"ui/src/account/scss/_accountInformation.scss"
+			],
+			[
+				"ibng.j",
+				"ui/test/protractor/IBNG.js"
+			],
+			[
+				"ibng.js",
+				"ui/test/protractor/IBNG.js"
+			],
+			[
+				"deve",
+				"conf/application/development.conf"
+			],
+			[
+				"kue.con",
+				"conf/application/user/kue.conf"
+			],
+			[
+				"intern",
+				"ui/src/order/payments/controller/internationalController.js"
+			],
+			[
+				"creatsto",
+				"ui/src/dashboard/test/e2e/createStockExchangeOrder.js"
+			],
+			[
+				"alia",
+				"ui/grunt/config/aliases.yaml"
+			],
+			[
+				".conf",
+				"conf/application.conf"
+			],
+			[
+				"validation",
+				"ui/src/common/service/validationState.js"
+			],
+			[
+				"internationalv",
+				"ui/src/order/payments/validator/internationalValidator.js"
+			],
+			[
+				"international",
+				"public/partials/order/payments/transferTo/international.html"
+			],
+			[
+				"applicat",
+				"conf/application.conf"
+			],
+			[
+				"validatio",
+				"ui/src/common/service/validationState.js"
+			],
+			[
+				"internation",
+				"ui/src/order/controller/internationalController.js"
+			],
+			[
+				"fincurr",
+				"ui/src/order/directive/finCurrencyDropdown.js"
+			],
+			[
+				"findr",
+				"ui/src/common/directive/uicontrols/finDropdown.js"
+			],
+			[
+				"kue",
+				"ui/grunt_configuration/kue.js"
+			],
+			[
+				"finflo",
+				"ui/src/common/directive/behaviour/finFloatPlaceholder.js"
+			],
+			[
+				"accountdr",
+				"ui/src/account/directive/finAccountDropdown.js"
+			],
+			[
+				"blu",
+				"ui/scss/application/_blups.scss"
+			],
+			[
+				"findropdown",
+				"ui/src/common/directive/uicontrols/finDropdown.js"
+			],
+			[
+				"find",
+				"public/js/src/common/directive/uicontrols/finDropdown.js"
+			],
+			[
+				"kue.j",
+				"ui/grunt_configuration/kue.js"
+			],
+			[
+				"function",
+				"ui/scss/spec/_functions.scss"
+			],
+			[
+				"functions",
+				"ui/scss/spec/_functions.scss"
+			],
+			[
+				"dropdown.",
+				"ui/src/common/scss/_finDropdown.scss"
+			],
+			[
+				"amountwi",
+				"ui/src/order/scss/_amountWithCurrency.scss"
+			],
+			[
+				"forms.",
+				"ui/scss/spec/_forms.scss"
+			],
+			[
+				"dimensions.scss",
+				"ui/scss/spec/_dimensions.scss"
+			],
+			[
+				"dimen",
+				"ui/scss/application/_dimensions.scss"
+			],
+			[
+				"fincurren",
+				"ui/src/order/directive/finCurrencyDropdown.js"
+			],
+			[
+				"amount.",
+				"ui/src/common/scss/_amount.scss"
+			],
+			[
+				"accountac",
+				"app/ch/finnova/ibng/actor/business/account/AccountsActor.java"
+			],
+			[
+				"accounta",
+				"app/ch/finnova/ibng/actor/transform/CountActor.java"
+			],
+			[
+				"fonts",
+				"ui/scss/spec/_fonts.scss"
+			],
+			[
+				"_gener",
+				"ui/src/order/scss/transferTo/slips/_generic.scss"
+			],
+			[
+				"func",
+				"ui/scss/spec/_functions.scss"
+			],
+			[
+				"functions.",
+				"ui/scss/spec/_functions.scss"
+			],
+			[
+				"forms",
+				"ui/scss/spec/_forms.scss"
+			],
+			[
+				"specdime",
+				"ui/scss/spec/_dimensions.scss"
+			],
+			[
+				"colors.sc",
+				"ui/scss/spec/_elementColors.scss"
+			],
+			[
+				"kues.",
+				"ui/grunt_configuration/kue.js"
+			],
+			[
+				"dropdown.sc",
+				"ui/src/common/scss/_finDropdown.scss"
+			],
+			[
+				"devel",
+				"conf/application/development.conf"
+			],
+			[
+				"jsmpro",
+				"app/ch/finnova/ibng/net/jms/JMSProducer.java"
+			],
+			[
+				"jsmconsu",
+				"app/ch/finnova/ibng/net/jms/JMSConsumer.java"
+			],
+			[
+				"accountnu",
+				"src/common/service/accountNumberValidator.js"
+			],
+			[
+				"acountnumber",
+				"src/common/service/accountNumberValidator.js"
+			],
+			[
+				"vaidator",
+				"src/order/validator/InternationalValidator.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
