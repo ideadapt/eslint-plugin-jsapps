@@ -20,18 +20,21 @@ var eslintTester = new ESLintTester(eslint);
 eslintTester.addRuleTest("lib/rules/expect-length", {
 
     valid: [
-        "expect(items.length).toBeGreaterThan(0); items.forEach(console.log);",
-        "expect(items.length).not.toBe(0); items.forEach(console.log);"
+        {
+            code: "expect(items.length).toBeGreaterThan(0); items.forEach(console.log);"
+        },
+        {
+            code: "expect(items.length).not.toBe(0); items.forEach(console.log);"
+        },
+        {
+            code: "var items = []; items.forEach(console.log);"
+        },
+        {
+            code: "items.forEach(console.log);"
+        }
     ],
 
     invalid: [
-        {
-            code: "items.forEach(console.log);",
-            errors: [{
-                message: "length check for items required before calling forEach on it.",
-                type: "Identifier"
-            }]
-        },
         {
             code: "expect(items).toBeDefined(); items.forEach(console.log);",
             errors: [{
@@ -46,12 +49,5 @@ eslintTester.addRuleTest("lib/rules/expect-length", {
                 type: "Identifier"
             }]
         }
-        // {
-        //     code: "items.forEach(console.log); expect(items.length).not.toBe(0);",
-        //     errors: [{
-        //         message: "length check for items required before calling forEach on it.",
-        //         type: "Identifier"
-        //     }]
-        // }
     ]
 });

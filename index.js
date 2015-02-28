@@ -2,9 +2,9 @@
 
 module.exports = {
     rules: {
-        "expect-length": require("./lib/rules/expect-length"),
-        "focused-spec": require("./lib/rules/focused-spec")
+        "expect-length": require("./lib/rules/expect-length")
     },
     rulesConfig: {
+		"expect-length": 2
     }
 };

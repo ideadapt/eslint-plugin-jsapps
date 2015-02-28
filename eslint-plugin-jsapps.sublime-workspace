@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"includePattern"
+			],
+			[
 				"to",
 				"toLowerCase"
 			],
@@ -202,10 +206,6 @@
 			[
 				"ava",
 				"availableWidth	(num)"
-			],
-			[
-				"in",
-				"innerRadius	(num)"
 			],
 			[
 				"lo",
@@ -520,18 +520,18 @@
 	"buffers":
 	[
 		{
-			"contents": "{\n	\"folders\":\n	[\n		{\n			\"follow_symlinks\": false,\n			\"path\": \".\"\n		}\n	],\n	 \"SublimeLinter\":{\n        \"linters\":{\n            \"jshint\": {\n                \"@disable\": true\n            },\n            \"eslint\":{\n            	\"@disable\": false\n            }\n        }\n    }\n}\n",
+			"file": "lib/rules/expect-length.js",
 			"settings":
 			{
-				"buffer_size": 271,
+				"buffer_size": 2856,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "eslint-plugin-nextgen.sublime-project",
+			"file": "tests/lib/rules/expect-length.js",
 			"settings":
 			{
-				"buffer_size": 271,
+				"buffer_size": 2331,
 				"line_ending": "Unix"
 			}
 		}
@@ -711,10 +711,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ideadapt/repos/eslint-plugin-jsapps"
+		"/Users/ideadapt/repos/eslint-plugin-jsapps",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/lib",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/lib/rules",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/tests",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/tests/lib",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/tests/lib/rules"
 	],
 	"file_history":
 	[
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/index.js",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/tests/lib/rules/expect-length.js",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/lib/rules/expect-length.js",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/package.json",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/.eslintrc",
+		"/Users/ideadapt/repos/eslint-plugin-jsapps/eslint-plugin-jsapps.sublime-project",
 		"/Users/ideadapt/repos/slir/src/app/scripts/course/legend.jade",
 		"/Users/ideadapt/repos/slir/src/sliv/index.html",
 		"/Users/ideadapt/repos/slir/src/sliv/.htaccess",
@@ -836,13 +847,7 @@
 		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/dist/css/bootstrap.css",
 		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/less/bootstrap.less",
 		"/Users/ideadapt/repos/slir/src/app/styles/bootstrap.less",
-		"/Users/ideadapt/repos/slir/src/.tmp/styles/bootstrap.css",
-		"/Users/ideadapt/repos/slir/src/app/scripts/delikt/delikt.jade",
-		"/Users/ideadapt/repos/slir/src/node_modules/bootstrap/js/tab.js",
-		"/Users/ideadapt/repos/slir/src/app/scripts/data/dataSummary.js",
-		"/Users/ideadapt/repos/slir/spec/review1.txt",
-		"/Users/ideadapt/repos/l10ns/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/npmconf/lib/get-credentials-by-uri.js",
-		"/Users/ideadapt/repos/l10ns/node_modules/lunr/CHANGELOG.mdown"
+		"/Users/ideadapt/repos/slir/src/.tmp/styles/bootstrap.css"
 	],
 	"find":
 	{
@@ -1061,66 +1066,67 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "lib/rules/expect-length.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 271,
+						"buffer_size": 2856,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								271,
-								271
+								659,
+								659
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 35.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "eslint-plugin-nextgen.sublime-project",
-					"semi_transient": true,
+					"file": "tests/lib/rules/expect-length.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 271,
+						"buffer_size": 2331,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1272,
+								1272
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 280.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
