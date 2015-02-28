@@ -3,3 +3,5 @@ coverage/
 build/
 npm-debug.log
 .DS_Store
+.npmrc
+*.sublime-workspace
