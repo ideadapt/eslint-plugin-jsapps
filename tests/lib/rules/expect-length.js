@@ -34,6 +34,9 @@ eslintTester.addRuleTest("lib/rules/expect-length", {
         },
         {
             code: "expect(context.state.items.length); context.state.items.forEach(log);"
+        },
+        {
+            code: "lib.expect('');"
         }
     ],
 
