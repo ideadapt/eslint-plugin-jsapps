@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-jsapps",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Custom ESLint rules for javascript applications.",
     "main": "index.js",
     "scripts": {
@@ -16,10 +16,10 @@
         "mocha": "1.21.4",
         "coveralls": "^2.11.2",
         "eslint-tester": "^0.6.0",
-        "eslint": "^0.14.1"
+        "eslint": ">=0.16.1"
     },
     "peerDependencies": {
-        "eslint": "^0.14.1"
+        "eslint": ">=0.16.1"
     },
     "repository": {
         "type": "git",
