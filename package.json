@@ -18,9 +18,6 @@
         "eslint-tester": "^0.6.0",
         "eslint": ">=0.16.1"
     },
-    "peerDependencies": {
-        "eslint": ">=0.16.1"
-    },
     "repository": {
         "type": "git",
         "url": "git://github.com/ideadapt/eslint-plugin-jsapps.git"
