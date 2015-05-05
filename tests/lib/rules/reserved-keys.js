@@ -25,7 +25,7 @@ eslintTester.addRuleTest("lib/rules/reserved-keys", {
             code: "this.accountId = 1; expect();"
         },
         {
-            code: "this.id = 1;"
+            code: "this.id = 1; log();"
         },
         {
             args: [1, {keywords: [":)"]}],
