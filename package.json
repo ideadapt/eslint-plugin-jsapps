@@ -4,19 +4,17 @@
     "description": "Custom ESLint rules for javascript applications.",
     "main": "index.js",
     "scripts": {
-        "test": "npm run lint && npm run unit-test --coverage && npm run check-coverage",
+        "test": "npm run lint && npm run unit-test --coverage",
         "lint": "eslint ./",
         "unit-test": "istanbul test --dir build/coverage node_modules/mocha/bin/_mocha tests/**/*.js -- --recursive --reporter dot",
-        "check-coverage": "istanbul check-coverage --statement 100 --branch 100 --function 100 --lines 100",
-        "report-coverage-html": "istanbul report --dir  build/coverage html",
-        "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha tests/**/*.js -- --report lcovonly --recursive --reporter spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
+        "report-coverage-html": "istanbul report --dir  build/coverage html"
     },
     "devDependencies": {
-        "istanbul": "0.3.0",
-        "mocha": "1.21.4",
+        "istanbul": "0.4.0",
+        "mocha": "2.4.5",
         "coveralls": "^2.11.2",
-        "eslint-tester": "^0.6.0",
-        "eslint": ">=0.16.1"
+        "eslint-tester": "^0.8.2",
+        "eslint": ">=2.10.2"
     },
     "repository": {
         "type": "git",

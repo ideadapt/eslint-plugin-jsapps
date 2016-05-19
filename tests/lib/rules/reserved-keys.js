@@ -5,19 +5,11 @@
  */
 "use strict";
 
-//------------------------------------------------------------------------------
-// Requirements
-//------------------------------------------------------------------------------
+var rule = require("../../../lib/rules/reserved-keys"),
+    RuleTester = require("eslint").RuleTester;
 
-var eslint = require("eslint").linter,
-    ESLintTester = require("eslint-tester");
-
-//------------------------------------------------------------------------------
-// Tests
-//------------------------------------------------------------------------------
-
-var eslintTester = new ESLintTester(eslint);
-eslintTester.addRuleTest("lib/rules/reserved-keys", {
+var ruleTester = new RuleTester();
+ruleTester.run("reserved-keys", rule, {
 
     valid: [
 
@@ -25,10 +17,7 @@ eslintTester.addRuleTest("lib/rules/reserved-keys", {
             code: "this.accountId = 1; expect();"
         },
         {
-            code: "this.id = 1; log();"
-        },
-        {
-            args: [1, {keywords: [":)"]}],
+            options: [{keywords: [":)"]}],
             code: "this.id = 1; expect();"
         },
         {

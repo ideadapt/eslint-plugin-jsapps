@@ -5,19 +5,11 @@
  */
 "use strict";
 
-//------------------------------------------------------------------------------
-// Requirements
-//------------------------------------------------------------------------------
+var rule = require("../../../lib/rules/expect-length"),
+    RuleTester = require("eslint").RuleTester;
 
-var eslint = require("eslint").linter,
-    ESLintTester = require("eslint-tester");
-
-//------------------------------------------------------------------------------
-// Tests
-//------------------------------------------------------------------------------
-
-var eslintTester = new ESLintTester(eslint);
-eslintTester.addRuleTest("lib/rules/expect-length", {
+var ruleTester = new RuleTester();
+ruleTester.run("expect-length", rule, {
 
     valid: [
         {
@@ -47,21 +39,21 @@ eslintTester.addRuleTest("lib/rules/expect-length", {
         {
             code: "expect(items).toBeDefined(); items.forEach(log);",
             errors: [{
-                message: "length check for items required before calling forEach on it.",
+                message: "length check for 'items' required before calling forEach on it.",
                 type: "Identifier"
             }]
         },
         {
             code: "expect(items.l).toBeDefined(); items.forEach(log);",
             errors: [{
-                message: "length check for items required before calling forEach on it.",
+                message: "length check for 'items' required before calling forEach on it.",
                 type: "Identifier"
             }]
         },
         {
             code: "expect(context.state.items).toBeDefined(); context.state.items.forEach(log);",
             errors: [{
-                message: "length check for context.state.items required before calling forEach on it.",
+                message: "length check for 'context.state.items' required before calling forEach on it.",
                 type: "MemberExpression"
             }]
         }
