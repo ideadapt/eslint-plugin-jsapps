@@ -13,16 +13,28 @@ ruleTester.run("js-api-preference", rule, {
 
     valid: [
         {
+            code: "[].forEach()"
+        },
+        {
             code: "[].forEach"
         },
         {
-            code: "[].filter"
+            code: "[].filter()"
         },
         {
-            code: "Array.isArray"
+            code: "Array.isArray()"
         },
         {
-            code: "[].map"
+            code: "_.includes()"
+        },
+        {
+            code: "_.find()"
+        },
+        {
+            code: "[].map()"
+        },
+        {
+            code: "''.split()"
         },
         {
             code: "a + b"
@@ -31,10 +43,66 @@ ruleTester.run("js-api-preference", rule, {
 
     invalid: [
         {
+            code: "_.forEach()",
+            errors: [{
+                message: "Use forEach of Array instead.",
+                type: "Identifier"
+            }]
+        },
+        {
             code: "_.forEach",
             errors: [{
-                message: "Use Array.prototype.forEach instead",
+                message: "Use forEach of Array instead.",
                 type: "Identifier"
+            }]
+        },
+        {
+            code: "_.reduce",
+            errors: [{
+                message: "Use reduce of Array instead.",
+                type: "Identifier"
+            }]
+        },
+        {
+            code: "_.map",
+            errors: [{
+                message: "Use map of Array instead.",
+                type: "Identifier"
+            }]
+        },
+        {
+            code: "_.isArray()",
+            errors: [{
+                message: "Use isArray of Array instead.",
+                type: "Identifier"
+            }]
+        },
+        {
+            code: "_.split()",
+            errors: [{
+                message: "Use split of String instead.",
+                type: "Identifier"
+            }]
+        },
+        {
+            code: "_.join()",
+            errors: [{
+                message: "Use join of String instead.",
+                type: "Identifier"
+            }]
+        },
+        {
+            code: "[].includes()",
+            errors: [{
+                message: "Use includes of _ instead.",
+                type: "ArrayExpression"
+            }]
+        },
+        {
+            code: "[].find()",
+            errors: [{
+                message: "Use find of _ instead.",
+                type: "ArrayExpression"
             }]
         }
     ]
