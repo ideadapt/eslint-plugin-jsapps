@@ -37,6 +37,9 @@ ruleTester.run("js-api-preference", rule, {
             code: "''.split()"
         },
         {
+            code: "_.isEqual()"
+        },
+        {
             code: "a + b"
         }
     ],
@@ -103,6 +106,13 @@ ruleTester.run("js-api-preference", rule, {
             errors: [{
                 message: "Use find of _ instead.",
                 type: "ArrayExpression"
+            }]
+        },
+        {
+            code: "angular.equals()",
+            errors: [{
+                message: "Use isEqual of _ instead.",
+                type: "Identifier"
             }]
         }
     ]
