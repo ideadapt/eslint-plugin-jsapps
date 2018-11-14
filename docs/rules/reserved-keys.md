@@ -6,7 +6,7 @@ This rule preserves you from overwriting keys that might already be in use by an
 ## Rule Details
 
 Only keys of objects named this and self are inspected.
-Using the keywords option you can configure which key names to check againts.
+Using the keywords option you can configure which key names to check against.
 
 The following patterns are considered warnings:
 
